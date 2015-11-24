@@ -2,3 +2,4 @@ Information Technology		Matt Watson
 Database					Mathew Brown
 QA							Shirra
 Informatica					Jaimin
+Data Modelling				Karthik
