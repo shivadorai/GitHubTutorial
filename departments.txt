@@ -3,3 +3,4 @@ Database					Mathew Brown
 QA							Shirra
 Informatica					Jaimin
 Reporting					Vishwa
+Data Modelling				Karthik
